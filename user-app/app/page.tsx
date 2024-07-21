@@ -4,7 +4,7 @@ const client= new PrismaClient();
 export default function Home() {
   return (
     <div className="text-2xl">
-      hi there
+      hi there! first next app
     </div>
   );
 }
